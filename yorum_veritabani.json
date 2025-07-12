@@ -1,0 +1,2025 @@
+{
+  "Demir (serum)": {
+    "dusuk": {
+      "aciklama": "Demir eksikliği anemisi riski",
+      "oneri": "Kırmızı et, ıspanak, mercimek, kuru üzüm tüketin. C vitamini ile birlikte alın. 3 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Demir yüksekliği, karaciğer hasarı riski",
+      "oneri": "Demir takviyelerini kesin, demir açısından zengin besinleri azaltın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Acil"
+    },
+    "normal": {
+      "aciklama": "Demir seviyesi normal",
+      "oneri": "Mevcut beslenme düzenini sürdürün, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "LDL kolesterol": {
+    "dusuk": {
+      "aciklama": "LDL kolesterol düşük - genellikle iyi",
+      "oneri": "Mevcut beslenme düzenini sürdürün, 1 yıl sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "LDL kolesterol yüksek - kalp hastalığı riski",
+      "oneri": "Doymuş yağları azaltın, omega-3 tüketin, günde 30 dk egzersiz yapın. 3 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "LDL kolesterol seviyesi normal",
+      "oneri": "Sağlıklı beslenme düzenini sürdürün, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "HDL kolesterol": {
+    "dusuk": {
+      "aciklama": "HDL kolesterol düşük - kalp hastalığı riski",
+      "oneri": "Balık, ceviz, badem tüketin. Düzenli egzersiz yapın. 3 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "HDL kolesterol yüksek - genellikle iyi",
+      "oneri": "Mevcut yaşam tarzını sürdürün, 1 yıl sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "normal": {
+      "aciklama": "HDL kolesterol seviyesi normal",
+      "oneri": "Sağlıklı yaşam tarzını sürdürün, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Trigliserid": {
+    "dusuk": {
+      "aciklama": "Trigliserid düşük - genellikle iyi",
+      "oneri": "Mevcut beslenme düzenini sürdürün, 1 yıl sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "Trigliserid yüksek - kalp hastalığı riski",
+      "oneri": "Şeker ve karbonhidrat alımını azaltın, alkolü sınırlayın. Günde 30 dk egzersiz yapın. 3 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Trigliserid seviyesi normal",
+      "oneri": "Sağlıklı beslenme düzenini sürdürün, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Alanin aminotransferaz (ALT)": {
+    "dusuk": {
+      "aciklama": "ALT düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "ALT yüksek - karaciğer hasarı riski",
+      "oneri": "Alkol alımını kesin, yağlı besinleri azaltın. Karaciğer dostu beslenme uygulayın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Acil"
+    },
+    "normal": {
+      "aciklama": "ALT seviyesi normal",
+      "oneri": "Karaciğer sağlığını koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Aspartat transaminaz (AST)": {
+    "dusuk": {
+      "aciklama": "AST düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "AST yüksek - karaciğer veya kalp hasarı riski",
+      "oneri": "Alkol alımını kesin, yağlı besinleri azaltın. Stres yönetimi yapın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Acil"
+    },
+    "normal": {
+      "aciklama": "AST seviyesi normal",
+      "oneri": "Karaciğer sağlığını koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Bilirubin (total)": {
+    "dusuk": {
+      "aciklama": "Bilirubin düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "Bilirubin yüksek - karaciğer veya safra kesesi sorunu",
+      "oneri": "Yağlı besinleri azaltın, bol su için. Sarılık belirtileri varsa acil doktor kontrolü",
+      "doktor_kontrolu": "Acil"
+    },
+    "normal": {
+      "aciklama": "Bilirubin seviyesi normal",
+      "oneri": "Karaciğer sağlığını koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Gamma glutamil transferaz (GGT)": {
+    "dusuk": {
+      "aciklama": "GGT düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "GGT yüksek - karaciğer hasarı veya alkol kullanımı",
+      "oneri": "Alkol alımını kesin, yağlı besinleri azaltın. Karaciğer dostu beslenme uygulayın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "GGT seviyesi normal",
+      "oneri": "Karaciğer sağlığını koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Laktat dehidrogenaz (LDH)": {
+    "dusuk": {
+      "aciklama": "LDH düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "LDH yüksek - doku hasarı riski",
+      "oneri": "Dinlenme ve istirahat önemli. Ağır egzersizlerden kaçının. 2 hafta sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "LDH seviyesi normal",
+      "oneri": "Genel sağlığı koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Glukoz (Açlık Kan Şekeri)": {
+    "dusuk": {
+      "aciklama": "Kan şekeri düşük - hipoglisemi riski",
+      "oneri": "Düzenli beslenme, küçük öğünler yapın. Şekerli besinler bulundurun. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Kan şekeri yüksek - diyabet riski",
+      "oneri": "Şeker alımını azaltın, düzenli egzersiz yapın. Karbonhidrat alımını sınırlayın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Acil"
+    },
+    "normal": {
+      "aciklama": "Kan şekeri seviyesi normal",
+      "oneri": "Sağlıklı beslenme düzenini sürdürün, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Üre (Serum/Plazma)": {
+    "dusuk": {
+      "aciklama": "Üre düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "Üre yüksek - böbrek fonksiyon bozukluğu riski",
+      "oneri": "Protein alımını azaltın, bol su için. Tuz alımını sınırlayın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Üre seviyesi normal",
+      "oneri": "Böbrek sağlığını koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Kreatinin": {
+    "dusuk": {
+      "aciklama": "Kreatinin düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "Kreatinin yüksek - böbrek yetmezliği riski",
+      "oneri": "Protein alımını azaltın, bol su için. Tuz alımını sınırlayın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Acil"
+    },
+    "normal": {
+      "aciklama": "Kreatinin seviyesi normal",
+      "oneri": "Böbrek sağlığını koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Ürik asit": {
+    "dusuk": {
+      "aciklama": "Ürik asit düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "Ürik asit yüksek - gut hastalığı riski",
+      "oneri": "Protein alımını azaltın, bol su için. Kırmızı et ve deniz ürünlerini sınırlayın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Ürik asit seviyesi normal",
+      "oneri": "Sağlıklı beslenme düzenini sürdürün, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Albümin": {
+    "dusuk": {
+      "aciklama": "Albümin düşük - karaciğer veya böbrek sorunu",
+      "oneri": "Protein açısından zengin beslenme uygulayın. Yumurta, balık, tavuk tüketin. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Albümin yüksek - susuzluk belirtisi",
+      "oneri": "Günde 2-3 litre su için. Tuz alımını azaltın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Albümin seviyesi normal",
+      "oneri": "Mevcut beslenme düzenini sürdürün, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Kalsiyum (Ca)": {
+    "dusuk": {
+      "aciklama": "Kalsiyum düşük - kemik sağlığı riski",
+      "oneri": "Süt, peynir, yoğurt tüketin. D vitamini alın. Güneş ışığından faydalanın. 3 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Kalsiyum yüksek - böbrek taşı riski",
+      "oneri": "Kalsiyum takviyelerini kesin, bol su için. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Kalsiyum seviyesi normal",
+      "oneri": "Kemik sağlığını koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Nötrofil%": {
+    "dusuk": {
+      "aciklama": "Nötrofil düşük - enfeksiyon riski",
+      "oneri": "Bağışıklık sistemini güçlendirin. C vitamini alın, düzenli uyku yapın. 2 hafta sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Nötrofil yüksek - enfeksiyon veya inflamasyon",
+      "oneri": "Dinlenme önemli. Bol su için, istirahat edin. 1 hafta sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Nötrofil seviyesi normal",
+      "oneri": "Bağışıklık sistemini koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Eozinofil%": {
+    "dusuk": {
+      "aciklama": "Eozinofil düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "Eozinofil yüksek - alerji veya parazit enfeksiyonu",
+      "oneri": "Alerji testi yaptırın. Ev tozu ve polenlerden kaçının. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Eozinofil seviyesi normal",
+      "oneri": "Alerji kontrolü yapın, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "RDW-SD": {
+    "dusuk": {
+      "aciklama": "RDW-SD düşük - genellikle normal",
+      "oneri": "Rutin kontrolleri sürdürün, 6 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    },
+    "yuksek": {
+      "aciklama": "RDW-SD yüksek - anemi riski",
+      "oneri": "Demir açısından zengin beslenme uygulayın. B12 vitamini alın. 1 ay sonra tekrar kontrol",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "RDW-SD seviyesi normal",
+      "oneri": "Kan sağlığını koruyun, 6 ay sonra rutin kontrol",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Alkalen fosfataz (ALP)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Karaciğer fonksiyonları bozulmuş olabilir. Dahiliye veya gastroenteroloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Karaciğer fonksiyonları bozulmuş olabilir. Dahiliye veya gastroenteroloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Amilaz": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Antistreptolizin O (ASO)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Bağışıklık sistemiyle ilgili bir sorun olabilir. Dahiliye ya da immünoloji uzmanı ile görüşün.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Bağışıklık sistemiyle ilgili bir sorun olabilir. Dahiliye ya da immünoloji uzmanı ile görüşün.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)     Bazofil#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   Bazofil%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Bilirubin (direkt)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Karaciğer fonksiyonları bozulmuş olabilir. Dahiliye veya gastroenteroloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Karaciğer fonksiyonları bozulmuş olabilir. Dahiliye veya gastroenteroloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "C reaktif protein (CRP)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kalp-damar sağlığınız açısından risk taşıyabilir. Kardiyoloji uzmanı ile görüşmeniz önerilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kalp-damar sağlığınız açısından risk taşıyabilir. Kardiyoloji uzmanı ile görüşmeniz önerilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Demir bağlama kapasitesi (TDBK)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) ERİTROSİT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Eozinofil#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Eozinofil%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Ferritin": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Folat": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Fosfor (P)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) HEMOGLOBİN": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Hematokrit": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Klor (Cl)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Kolesterol": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Lipid (yağ) dengenizde bozulma var. Beslenmenizi düzenleyin ve kardiyoloji uzmanına danışın.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Lipid (yağ) dengenizde bozulma var. Beslenmenizi düzenleyin ve kardiyoloji uzmanına danışın.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Kreatin kinaz (CK)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kalp-damar sağlığınız açısından risk taşıyabilir. Kardiyoloji uzmanı ile görüşmeniz önerilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kalp-damar sağlığınız açısından risk taşıyabilir. Kardiyoloji uzmanı ile görüşmeniz önerilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Kreatin kinaz-MB": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Lenfosit#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Lenfosit%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) LÖKOSİT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   MCH": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   MCHC": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   MCV": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   MPV": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Magnezyum": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Monosit#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Monosit%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   Nötrofil%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Nötrofill#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   PCT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   PDW": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Potasyum (K)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   RDW": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram)   RDW-SD": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Romatoid faktör (RF)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Bağışıklık sistemiyle ilgili bir sorun olabilir. Dahiliye ya da immünoloji uzmanı ile görüşün.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Bağışıklık sistemiyle ilgili bir sorun olabilir. Dahiliye ya da immünoloji uzmanı ile görüşün.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Serbest T4": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Hormon dengenizde sorun olabilir. Endokrinoloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Hormon dengenizde sorun olabilir. Endokrinoloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Sodyum (Na)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Tam Kan Sayımı (Hemogram) TROMBOSİT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "TROMBOSİT TROMBOSİT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "TSH": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Hormon dengenizde sorun olabilir. Endokrinoloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Hormon dengenizde sorun olabilir. Endokrinoloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Değeri Tam Kan Sayımı (Hemogram)   İmmatür Granülosit%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Total Protein": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Vitamin B12": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) İmmatür Granülosit#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "İmmatür Granülosit%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Alanin aminotransferaz (ALT) (Serum/Plazma)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Karaciğer fonksiyonları bozulmuş olabilir. Dahiliye veya gastroenteroloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Karaciğer fonksiyonları bozulmuş olabilir. Dahiliye veya gastroenteroloji uzmanına başvurun.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Aspartat aminotransferaz (AST) (Serum/Plazma)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Bazofil": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Bazofil %": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Eozinofil": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Eozinofil %": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Hematokrit": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Hemoglobin": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "IG": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Kreatin kinaz (Serum/Plazma)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Kreatinin (Serum/Plazma)": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Böbrek fonksiyonlarınızda bozulma olabilir. Nefroloji uzmanına danışın.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Böbrek fonksiyonlarınızda bozulma olabilir. Nefroloji uzmanına danışın.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Lenfosit": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Lenfosit %": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "MCH": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "MCHC": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "MCV": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "MPV": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Monosit": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Monosit %": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Nötrofil": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Nötrofil %": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "P-LCR": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "PCT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "PDW": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "PLT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "RBC sayısı": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "RDW": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "WBC sayısı": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Bazofil#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Bazofil%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) MCH": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) MCHC": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) MCV": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) MPV": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) Nötrofil%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) PCT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) PDW": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) RDW": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Tam Kan Sayımı (Hemogram) RDW-SD": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Kan değerlerinizde bozulma var. Hematoloji uzmanı ile değerlendirme yapılmalıdır.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Değeri Tam Kan Sayımı (Hemogram) İmmatür Granülosit%": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Değerlerinizin değerlendirilmesi için bir uzman hekime başvurmanız tavsiye edilir.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "7.07.20250Alkalen fos 81.8 U/L 40-129 7.07.20250Amilaz 74.3 U/L 28-100 7.07.20250Antistrepto 44.9 IU/mL 0-200 7.07.20250Aspartat tr 26.6 U/L 5-40 7.07.20250Bilirubin (d0,16 mg/dL 0,01-0,30 7.07.20250Bilirubin (to0,28 mg/dL 0,01-1,20 7.07.20250C reaktif pr2,19 mg/L 0,0-5 7.07.20250Demir (seru110,6 ug/dL 33-193 7.07.20250Demir bağl243,5 ug/dL 125-500 7.07.20250Fosfor (P) 2,6 mg/dL 2,5-4,5 7.07.20250Gamma glu 13 U/L 8-50 7.07.20250Glukoz (Aç 103.8 mg/dL 75 - 110 100-125: Bozulmuş açlık glukozu,=>126:Diyabet- 7.07.20250HDL koleste50,6 mg/dL 35-55 7.07.20250Kalsiyum (C10,29 mg/dL 8,6-10,4 7.07.20250Klor (Cl) 120.4 mmol/L 98-108 7.07.20250Kolesterol 177,4 mg/dL 40 - 200 >200Kardiyovasküle r hastalık riski,- 7.07.20250Kreatin kin 242.3 U/L 39-308 7.07.20250Kreatin kin 16.9 U/L 0-25 7.07.20250Kreatinin": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "7.07.20250Ferritin 99.5 ug/L 30-400 7.07.20250Folat": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "7.07.20250Laktat dehi 175.5 U/L 135-225 7.07.20250LDL koleste117,7 mg/dL 20 - 160 >130Kardiyovasküle r hastalık riski,- 7.07.20250Magnezyum2,29 mg/dL 1,6-2,6 7.07.20250Potasyum (4,53 mmol/L 3,5-5,3 7.07.20250Total Prote 80.5 g/L 66-87 7.07.20250Romatoid f7,1 IU/mL 0-14 7.07.20250Sodyum (N 128.7 mmol/L 136-146 7.07.20250TROMBOSİT 7.07.20250TROMBOSİ 162.7 10^3/uL 150-450 LÖKOSİT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "7.07.20250Serbest T4 1,12 ng/dL 0,87-1,70 7.07.20250TSH": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Bazofil#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Bazofil% 1 % 0,0-2 Nötrofill# 2,92 10^3/uL 1,7-7,5 Monosit# 0,51 10^3/uL 0,2-1,3 Lenfosit#": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Demir (seru 95.4 ug/dL 33 - 193 7.07.20251Demir bağl 271.5 ug/dL 125 - 500 7.07.20251LDL koleste 123 mg/dL 20 - 160 >130Kardiyovasküle r hastalık riski. 7.07.20251Kolesterol 183.5 mg/dL 40 - 200 >200Kardiyovasküle r hastalık riski. 7.07.20251HDL koleste 47.5 mg/dL 35 - 55 7.07.20251Trigliserid 43.4 mg/dL 20 - 200 >150Kardiyovasküle r hastalık riski. 7.07.20251Alanin ami 17.5 U/L 5 - 41 7.07.20251Aspartat tr 29.3 U/L 5 - 40 7.07.20251Bilirubin (to 0.3 mg/dL 0.01 - 1.20 7.07.20251Bilirubin (d 0.2 mg/dL 0.01 - 0.30 7.07.20251Gamma glu 10.6 U/L 8 - 50 7.07.20251Laktat dehi 162.5 U/L 135 - 225 7.07.20251Glukoz (Aç 119.1 mg/dL 75 - 110 100-125: Bozulmuş açlık glukozu,=>126:Diyabet 7.07.20251Üre (Serum 36.9 mg/dL 19 - 44 7.07.20251Kreatinin 1.2 mg/dL 0.70 - 1.20 7.07.20251Ürik asit 8.2 mg/dL 3.4 - 7 7.07.20251Albümin 57.7 g/L 35 - 52 7.07.20251Amilaz 73.5 U/L 28 - 100 7.07.20251Alkalen fos 67.9 U/L 40 - 129 7.07.20251Kalsiyum (C 10.6 mg/dL 8.6 - 10.4 7.07.20251Klor (Cl) 103.7 mmol/L 98 - 108 7.07.20251Fosfor (P) 2.5 mg/dL 2.5 - 4.5 7.07.20251Magnezyum 2 mg/dL 1.6 - 2.6 7.07.20251Potasyum ( 4.9 mmol/L 3.5 - 5.3 7.07.20251Sodyum (N 147.3 mmol/L 136 - 146 7.07.20251Romatoid f 6.7 IU/mL 0 - 14 7.07.20251C reaktif pr 1.9 mg/L 0.0 - 5 7.07.20251Antistrepto 46.1 IU/mL 0 - 200 7.07.20251Kreatin kin 233.9 U/L 39 - 308 7.07.20251Total Prote 70.1 g/L 66 - 87 7.07.20251Kreatin kin 16.4 U/L 0 - 25 7.07.20251Tam Kan Sayımı (Hemogram) 7.07.20251Tam Kan Sa 154.7 10^3/uL 150 - 450 Tam Kan Sa 5.1 10^3/uL 5 - 10.6 Tam Kan Sa 13.7 g/dL 13 - 18 Tam Kan Sa 5 10^6 uL 4.2 - 6 Tam Kan Sa 50.1 fL 35.1 - 43.9 Tam Kan Sa 12 % 11.5 - 14.5 Tam Kan Sa 16.4 fL 9.8 - 16.1 Tam Kan Sa 0.2 % 0.16 - 0.35 Tam Kan Sa 55.3 % 50 - 70 Tam Kan Sa 11.5 fL 7 - 12 Tam Kan Sa 7.9 % 2 - 11 Tam Kan Sa 95.4 fL 80 - 100 Tam Kan Sa 34.2 g/dL 32 - 36 Tam Kan Sa 28.1 pg 26 - 34 Tam Kan Sa 41.6 % 18 - 42 Tam Kan Sa 0.2 % 0.0 - 0.6 Tam Kan Sa 42.7 % 40 - 54 Tam Kan Sa 4.6 % 0 - 3 Tam Kan Sa 0.9 % 0.0 - 2 Tam Kan Sa 3.4 10^3/uL 1.7 - 7.5 Tam Kan Sa 0.5 10^3/uL 0.2 - 1.3 Tam Kan Sa 1.9 10^3/uL 1 - 3.2 Tam Kan Sa 0 10^3/uL 0.0 - 0.06 Tam Kan Sa 0.3 10^3/uL 0.04 - 0.3 Tam Kan Sa 0.1 10^3/uL 0.00 - 2 Alanin ami 16.6 U/L 5-41 7.07.20250Albümin": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "HEMOGLO 15,3 g/dL 13-18 ERİTROSİT 5,03 10^6 uL 4,2-6 RDW-SD": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Lenfosit% 37,6 % 18-42 İmmatür G 0,2 % 0,0-0,6 Hematokrit47,1 % 40-54 Eozinofil% 4.4 % 0-3 PDW 14 fL 9,8-16,1 PCT": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Monosit% 8,5 % 2-11 MCV": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Nötrofil% 48,9 % 50-70 MPV": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "Trigliserid 45,7 mg/dL 20 - 200 >150Kardiyovasküle r hastalık riski,- 7.07.20250Üre (Serum32,8 mg/dL 19-44 7.07.20250Ürik asit": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  },
+  "İmmatür G 0,01 10^3/uL 0,0-0,06 Eozinofil# 0,24 10^3/uL 0,04-0,3 MCHC": {
+    "dusuk": {
+      "aciklama": "Bu testin sonucu referans aralığının altında.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "yuksek": {
+      "aciklama": "Bu testin sonucu referans aralığının üstünde.",
+      "oneri": "Doktorunuza danışınız.",
+      "doktor_kontrolu": "Gerekli"
+    },
+    "normal": {
+      "aciklama": "Bu testin sonucu normal aralıkta.",
+      "oneri": "Rutin kontrolleri sürdürünüz.",
+      "doktor_kontrolu": "Gerekli değil"
+    }
+  }
+}
