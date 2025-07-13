@@ -2,6 +2,21 @@
 
 Modern ve kullanıcı dostu bir kan tahlil analiz uygulaması. PDF formatındaki laboratuvar sonuçlarını otomatik olarak analiz eder, kritik değerleri tespit eder ve detaylı raporlar oluşturur.
 
+## ⚖️ HUKUKİ UYARILAR
+
+**ÖNEMLİ**: Bu yazılım tıbbi tanı, tedavi veya sağlık hizmeti sunmak amacıyla tasarlanmamıştır. Bu uygulama sadece eğitim ve bilgilendirme amaçlıdır.
+
+### 🚨 Kritik Uyarılar
+
+- **Tıbbi Tanı Amaçlı Değildir**: Bu yazılım tıbbi tanı, tedavi veya sağlık hizmeti sunmak amacıyla tasarlanmamıştır
+- **Doktor Kontrolü Gereklidir**: Tüm laboratuvar sonuçları mutlaka uzman bir doktor tarafından değerlendirilmelidir
+- **Kendi Sorumluluğunuzda Kullanın**: Bu yazılımı kendi sorumluluğunuzda kullanırsınız
+- **Acil Durumlar**: Acil tıbbi durumlar için mutlaka 112'yi arayın veya en yakın hastaneye başvurun
+
+Detaylı hukuki uyarılar için [HUKUKI_UYARILAR.md](HUKUKI_UYARILAR.md) dosyasını inceleyin.
+
+Kullanım şartları için [KULLANIM_SARTLARI.md](KULLANIM_SARTLARI.md) dosyasını inceleyin.
+
 ## 📋 Özellikler
 
 ### 🔍 Ana Özellikler

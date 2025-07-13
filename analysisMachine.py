@@ -12,6 +12,19 @@ try:
 except ImportError:
     DND_AVAILABLE = False
 
+"""
+🏥 Kan Tahlil Analiz Sistemi
+
+HUKUKİ UYARILAR:
+- Bu yazılım tıbbi tanı, tedavi veya sağlık hizmeti sunmak amacıyla tasarlanmamıştır
+- Bu uygulama sadece eğitim ve bilgilendirme amaçlıdır
+- Tüm laboratuvar sonuçları mutlaka uzman bir doktor tarafından değerlendirilmelidir
+- Acil tıbbi durumlar için mutlaka 112'yi arayın veya en yakın hastaneye başvurun
+- Bu yazılımı kendi sorumluluğunuzda kullanırsınız
+
+Detaylı hukuki uyarılar için HUKUKI_UYARILAR.md dosyasını inceleyin.
+"""
+
 # Renk teması - Hastane teması
 COLORS = {
     'primary': '#1e3a8a',      # Koyu mavi
@@ -899,16 +912,79 @@ class TahlilApp:
             self.text.insert(tk.END, f"Kritik sonuç sayısı: {len(kritik_sonuclar)}\n", "info")
             self.text.insert(tk.END, f"Normal sonuç sayısı: {len(normal_sonuclar)}\n", "info")
             
-            # Dosyaları kaydet
+            # Sadece CSV dosyasını kaydet (txt dosyası oluşturma)
             df.to_csv("tahlil_sonuclari.csv", index=False)
-            with open("tahlil_analiz_raporu.txt", "w", encoding="utf-8") as f:
-                f.write(rapor)
             
             self.update_status(f"Detaylı analiz tamamlandı - {len(df)} test analiz edildi")
             
         except Exception as e:
             self.text.insert(tk.END, f"\n❌ Hata: {e}\n", "danger")
             self.update_status(f"Hata: {e}")
+
+def show_legal_warning():
+    """Hukuki uyarı penceresi gösterir"""
+    warning_window = tk.Toplevel()
+    warning_window.title("⚖️ Hukuki Uyarı")
+    warning_window.geometry("600x400")
+    warning_window.configure(bg=COLORS['light'])
+    warning_window.resizable(False, False)
+    
+    # Pencereyi ortala
+    warning_window.transient()
+    warning_window.grab_set()
+    
+    # Başlık
+    title_label = tk.Label(
+        warning_window,
+        text="⚖️ HUKUKİ UYARILAR",
+        font=("Arial", 16, "bold"),
+        fg=COLORS['danger'],
+        bg=COLORS['light']
+    )
+    title_label.pack(pady=20)
+    
+    # Uyarı metni
+    warning_text = """
+Bu yazılım tıbbi tanı, tedavi veya sağlık hizmeti sunmak amacıyla tasarlanmamıştır.
+
+🚨 ÖNEMLİ UYARILAR:
+
+• Bu uygulama sadece eğitim ve bilgilendirme amaçlıdır
+• Tüm laboratuvar sonuçları mutlaka uzman bir doktor tarafından değerlendirilmelidir
+• Bu yazılımı kendi sorumluluğunuzda kullanırsınız
+• Acil tıbbi durumlar için mutlaka 112'yi arayın
+
+Bu yazılımı kullanarak bu uyarıları kabul etmiş olursunuz.
+    """
+    
+    text_widget = scrolledtext.ScrolledText(
+        warning_window,
+        wrap=tk.WORD,
+        width=70,
+        height=15,
+        font=("Arial", 10),
+        bg=COLORS['white'],
+        fg=COLORS['text']
+    )
+    text_widget.pack(padx=20, pady=10)
+    text_widget.insert(tk.END, warning_text)
+    text_widget.config(state=tk.DISABLED)
+    
+    # Kabul butonu
+    def accept_warning():
+        warning_window.destroy()
+    
+    accept_button = tk.Button(
+        warning_window,
+        text="✅ Kabul Ediyorum",
+        command=accept_warning,
+        font=("Arial", 12, "bold"),
+        bg=COLORS['success'],
+        fg=COLORS['white'],
+        relief=tk.RAISED,
+        bd=2
+    )
+    accept_button.pack(pady=20)
 
 def main():
     if DND_AVAILABLE:
@@ -918,6 +994,9 @@ def main():
     
     # Pencere ikonu ve stil
     root.iconbitmap(default='')  # Varsayılan ikon
+    
+    # Hukuki uyarıyı göster
+    show_legal_warning()
     
     app = TahlilApp(root)
     root.mainloop()

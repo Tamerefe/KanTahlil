@@ -1,30 +1,63 @@
 Tahlil,Sonuç,Birim,Referans Alt,Referans Üst,Durum
-Alanin aminotransferaz (ALT),23.0,U/L,5.0,41.0,Normal
-Albümin,49.1,g/L,35.0,52.0,Normal
-Alkalen fosfataz (ALP),92.0,U/L,40.0,129.0,Normal
-Amilaz,82.0,U/L,28.0,100.0,Normal
-Aspartat transaminaz (AST),28.0,U/L,5.0,40.0,Normal
-Bilirubin (direkt),0.14,mg/dL,0.01,0.3,Normal
-Bilirubin (total),0.39,mg/dL,0.01,1.2,Normal
-Demir (serum),85.3,ug/dL,33.0,193.0,Normal
-Demir bağlama kapasitesi (TDBK),315.0,ug/dL,125.0,500.0,Normal
-Ferritin,142.0,ug/L,30.0,400.0,Normal
-Folat,12.3,ug/L,4.6,18.7,Normal
-Gamma glutamil transferaz (GGT),16.0,U/L,8.0,50.0,Normal
-Glukoz (Açlık Kan Şekeri),111.0,mg/dL,75.0,110.0,Yüksek
-HDL kolesterol,42.2,mg/dL,35.0,55.0,Normal
-Kalsiyum (Ca),9.82,mg/dL,8.6,10.4,Normal
-Klor (Cl),105.0,mmol/L,98.0,108.0,Normal
-Kolesterol,201.3,mg/dL,40.0,200.0,Yüksek
-Kreatinin,0.98,mg/dL,0.7,1.2,Normal
-LDL kolesterol,142.1,mg/dL,20.0,160.0,Normal
-Laktat dehidrogenaz (LDH),174.0,U/L,135.0,225.0,Normal
-Magnezyum,2.1,mg/dL,1.6,2.6,Normal
-Potasyum (K),4.34,mmol/L,3.5,5.3,Normal
-Serbest T4,1.19,ng/dL,0.87,1.7,Normal
-Sodyum (Na),144.0,mmol/L,136.0,146.0,Normal
-TSH,1.44,mIU/L,0.27,4.2,Normal
-Trigliserid,135.6,mg/dL,20.0,200.0,Normal
-Vitamin B12,411.0,ng/L,191.0,663.0,Normal
-Üre (Serum/Plazma),28.7,mg/dL,19.0,44.0,Normal
-Ürik asit,6.8,mg/dL,3.4,7.0,Normal
+Alanin aminotransferaz (ALT),19.0,U/L,5.0,41.0,Normal
+Albümin,51.4,g/L,35.0,52.0,Normal
+Alkalen fosfataz (ALP),79.0,U/L,40.0,129.0,Normal
+Amilaz,70.0,U/L,28.0,100.0,Normal
+Antistreptolizin O (ASO),52.0,IU/mL,0.0,200.0,Normal
+Aspartat transaminaz (AST),26.0,U/L,5.0,40.0,Normal
+Tam Kan Sayımı (Hemogram) Bazofil#,0.06,10^3/uL,0.0,2.0,Normal
+Tam Kan Sayımı (Hemogram) Bazofil%,1.0,%,0.0,2.0,Normal
+Bilirubin (direkt),0.16,mg/dL,0.01,0.3,Normal
+Bilirubin (total),0.28,mg/dL,0.01,1.2,Normal
+C reaktif protein (CRP),2.19,mg/L,0.0,5.0,Normal
+Demir (serum),110.6,ug/dL,33.0,193.0,Normal
+Demir bağlama kapasitesi (TDBK),243.5,ug/dL,125.0,500.0,Normal
+Tam Kan Sayımı (Hemogram) ERİTROSİT,5.03,10^6 uL,4.2,6.0,Normal
+Tam Kan Sayımı (Hemogram) Eozinofil#,0.24,10^3/uL,0.04,0.3,Normal
+Tam Kan Sayımı (Hemogram) Eozinofil%,4.0,%,0.0,3.0,Yüksek
+Ferritin,117.0,ug/L,30.0,400.0,Normal
+Folat,9.09,ug/L,4.6,18.7,Normal
+Fosfor (P),2.6,mg/dL,2.5,4.5,Normal
+Gamma glutamil transferaz (GGT),12.0,U/L,8.0,50.0,Normal
+Glukoz (Açlık Kan Şekeri),120.0,mg/dL,75.0,110.0,Yüksek
+HDL kolesterol,50.6,mg/dL,35.0,55.0,Normal
+Tam Kan Sayımı (Hemogram) HEMOGLOBİN,15.3,g/dL,13.0,18.0,Normal
+Tam Kan Sayımı (Hemogram) Hematokrit,47.1,%,40.0,54.0,Normal
+Kalsiyum (Ca),10.29,mg/dL,8.6,10.4,Normal
+Klor (Cl),108.0,mmol/L,98.0,108.0,Normal
+Kolesterol,177.4,mg/dL,40.0,200.0,Normal
+Kreatin kinaz (CK),244.0,U/L,39.0,308.0,Normal
+Kreatin kinaz-MB,15.0,U/L,0.0,25.0,Normal
+Kreatinin,1.07,mg/dL,0.7,1.2,Normal
+LDL kolesterol,117.7,mg/dL,20.0,160.0,Normal
+Laktat dehidrogenaz (LDH),188.0,U/L,135.0,225.0,Normal
+Tam Kan Sayımı (Hemogram) Lenfosit#,2.25,10^3/uL,1.0,3.2,Normal
+Tam Kan Sayımı (Hemogram) Lenfosit%,37.6,%,18.0,42.0,Normal
+Tam Kan Sayımı (Hemogram) LÖKOSİT,5.98,10^3/uL,5.0,10.6,Normal
+Tam Kan Sayımı (Hemogram) MCH,30.4,pg,26.0,34.0,Normal
+Tam Kan Sayımı (Hemogram) MCHC,32.5,g/dL,32.0,36.0,Normal
+Tam Kan Sayımı (Hemogram) MCV,93.6,fL,80.0,100.0,Normal
+Tam Kan Sayımı (Hemogram) MPV,11.7,fL,7.0,12.0,Normal
+Magnezyum,2.29,mg/dL,1.6,2.6,Normal
+Tam Kan Sayımı (Hemogram) Monosit#,0.51,10^3/uL,0.2,1.3,Normal
+Tam Kan Sayımı (Hemogram) Monosit%,8.5,%,2.0,11.0,Normal
+Tam Kan Sayımı (Hemogram) Nötrofil%,48.9,%,50.0,70.0,Düşük
+Tam Kan Sayımı (Hemogram) Nötrofill#,2.92,10^3/uL,1.7,7.5,Normal
+Tam Kan Sayımı (Hemogram) PCT,0.19,%,0.16,0.35,Normal
+Tam Kan Sayımı (Hemogram) PDW,15.0,fL,9.8,16.1,Normal
+Potasyum (K),4.53,mmol/L,3.5,5.3,Normal
+Tam Kan Sayımı (Hemogram) RDW,12.9,%,11.5,14.5,Normal
+Tam Kan Sayımı (Hemogram) RDW-SD,44.3,fL,35.1,43.9,Yüksek
+Romatoid faktör (RF),7.1,IU/mL,0.0,14.0,Normal
+Serbest T4,1.12,ng/dL,0.87,1.7,Normal
+Sodyum (Na),146.0,mmol/L,136.0,146.0,Normal
+Tam Kan Sayımı (Hemogram) Tam Kan Sayımı (Hemogram) TROMBOSİT,164.0,10^3/uL,150.0,450.0,Normal
+TROMBOSİT TROMBOSİT,164.0,10^3/uL,150.0,450.0,Normal
+TSH,1.06,mIU/L,0.27,4.2,Normal
+Total Protein,79.0,g/L,66.0,87.0,Normal
+Trigliserid,45.7,mg/dL,20.0,200.0,Normal
+Vitamin B12,367.0,ng/L,191.0,663.0,Normal
+Üre (Serum/Plazma),32.8,mg/dL,19.0,44.0,Normal
+Ürik asit,7.4,mg/dL,3.4,7.0,Yüksek
+Tam Kan Sayımı (Hemogram) İmmatür Granülosit#,0.01,10^3/uL,0.0,0.06,Normal
+Değeri Tam Kan Sayımı (Hemogram) İmmatür Granülosit%,0.2,%,0.0,0.6,Normal
